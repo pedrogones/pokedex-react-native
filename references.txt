@@ -1,0 +1,17 @@
+Referências que utilizadas no projeto:
+
+Durante o desenvolvimento da Pokédex em React Native, foram usadas várias fontes pra tirar dúvidas, aprender coisas novas e montar a interface. 
+
+-> Documentação do React Native
+    Base pra entender como usar os componentes, navegação e etc..
+    reactnative.dev
+-> Fóruns e comunidades
+    Stack Overflow – Dúvidas e erros (principalmente como lidar com os erros de importação do snack expo).
+    GitHub – Como utlizadar as bibliotecas como o styled-components e o react-navigation.
+-> Estilização com CSS
+    Usando o styled-components pra deixar o visual organizado;
+    Puro css, tendo como base a : developer.mozilla.org/en-US/docs/Web/CSS
+-> Figma
+    Usei o Figma pra visualizar o protótipo da interface e seguir o layout certinho.
+-> Ajuda da IA
+    Nada mais típico como uso de ia para entender alguns conceitos, corrigir erros e aprender mais sobre o que estava produzindo.
